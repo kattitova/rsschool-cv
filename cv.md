@@ -27,7 +27,7 @@ const func = (num) => {
 ```
 
 ## Work experience
-1. *Oktober 2011 - up to now* **Freelance** - Front-End Developer
+1. *October 2011 - up to now* **Freelance** - Front-End Developer
     1. [SWS Container Order Program](https://fire2.sws.aero/) - HTML5, CSS3, PHP, JavaScript
     1. [Skylark Canopy Order Program](https://skylarkparachutes.com/canopy_order_prog/colorchute.php) - HTML5, CSS3, PHP, JavaScript
     1. [Azov-Sky Skydiving Club Site](http://azov-sky.com.ua/) - CMS Wordpress
@@ -36,7 +36,7 @@ const func = (num) => {
 	1. [SWS Container Order Program v.1](https://sws.aero/ru/order/online_order/) - Action Script 2.0
 
 ## Education
-*Septermber 2002 - June 2007* **Pryazovskyi State Technical University** - Automation of technological processes and production
+*September 2002 - June 2007* **Pryazovskyi State Technical University** - Automation of technological processes and production
 
 ## English
 A1
