@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #f5f7fa;
+  padding: 40px;
+  font-family: Raleway;
+  line-height: 26px;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  max-width: 1225px;
+  margin: 0 auto;
+  padding: 110px 120px 110px 120px;
+  display: flex;
+  justify-content: center;
+}
+
+aside {
+  background: #ecefee;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #24292d;
+  padding-right: 50px;
+  margin-right: 120px;
+}
+
+.leftbar-header {
+  margin-left: 40px;
+}
+
+.leftbar-header h1 {
+  font-size: 50px;
+  white-space: nowrap;
+  margin-top: 65px;
+  margin-bottom: 30px;
+}
+
+.leftbar-header h3 {
+  font-weight: 500;
+  margin-bottom: 125px;
+}
+
+.my-photo {
+  width: 370px;
+  border-radius: 250px;
+  box-shadow: 0 0 2px #666;
+}
+
+.about-me-container {
+  margin-left: 40px;
+  margin-bottom: 115px;
+}
+
+hr {
+  margin-inline-end: 40px;
+  margin-bottom: 50px;
+}
+
+.about-me-container p {
+  font-size: 17px;
+}
+
+.contacts-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-weight: 700;
+  font-size: 14px;
+  font-style: normal;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+}
+
+.contacts-link {
+  color: #24292d;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.contacts-link:hover {
+  color: #ff5d50;
+}
+
+.tech-skills-container li,
+.education-container li,
+.work-container li {
+  margin-left: 18px;
+  color: #ff5d50;
+}
+
+.tech-skills-container .list-item,
+.education-container .list-item,
+.work-container .list-item {
+  color: #24292d;
+}
+
+.color-text {
+  color: #ff5d50;
+}
+
+h4 {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 18px;
+}
+
+.work-period {
+  color: #a8a8a8;
+  font-size: 14px;
+}
+
+.company-container {
+  margin-bottom: 40px;
+}
+
+.tech-skills-container,
+.work-container,
+.education-container {
+  margin-bottom: 90px;
+}
+
+.projects-link {
+  text-decoration: none;
+  color: #24292d;
+}
