@@ -17,6 +17,8 @@ body {
   max-width: 1225px;
   margin: 0 auto;
   padding: 110px 120px 110px 120px;
+  display: flex;
+  justify-content: center;
 }
 
 aside {
@@ -26,6 +28,7 @@ aside {
   padding-bottom: 40px;
   color: #24292d;
   padding-right: 50px;
+  margin-right: 120px;
 }
 
 .leftbar-header {
@@ -55,7 +58,7 @@ aside {
   margin-bottom: 115px;
 }
 
-.about-me-container hr {
+hr {
   margin-inline-end: 40px;
   margin-bottom: 50px;
 }
@@ -85,4 +88,52 @@ h3 {
   color: #24292d;
   margin-left: 10px;
   text-decoration: none;
+}
+
+.contacts-link:hover {
+  color: #ff5d50;
+}
+
+.tech-skills-container li,
+.education-container li,
+.work-container li {
+  margin-left: 18px;
+  color: #ff5d50;
+}
+
+.tech-skills-container .list-item,
+.education-container .list-item,
+.work-container .list-item {
+  color: #24292d;
+}
+
+.color-text {
+  color: #ff5d50;
+}
+
+h4 {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 18px;
+}
+
+.work-period {
+  color: #a8a8a8;
+  font-size: 14px;
+}
+
+.company-container {
+  margin-bottom: 40px;
+}
+
+.tech-skills-container,
+.work-container,
+.education-container {
+  margin-bottom: 90px;
+}
+
+.projects-link {
+  text-decoration: none;
+  color: #24292d;
 }
